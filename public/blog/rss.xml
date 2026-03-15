@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Housejester Blog</title>
+    <link>https://housejester.com/blog/</link>
+    <description>Latest articles from Housejester</description>
+    <language>en</language>
+    <atom:link href="https://housejester.com/blog/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Industrial Luxe Furniture Trends 2026: The Best Warehouse‑Style Living Ideas for Modern UK Homes</title>
+      <link>https://housejester.com/blog/industrial-luxe-furniture-trends-2026-the-best-warehousestyle-living-ideas-for-m.html</link>
+      <description>Industrial Luxe Furniture Trends 2026: The Best Warehouse‑Style Living Ideas for Modern UK Homes Industrial interiors are no longer just about exposed brick ...</description>
+      <pubDate>Sun, 15 Mar 2026 14:15:09 GMT</pubDate>
+      <guid isPermaLink="true">https://housejester.com/blog/industrial-luxe-furniture-trends-2026-the-best-warehousestyle-living-ideas-for-m.html</guid>
+    </item>
+  </channel>
+</rss>
