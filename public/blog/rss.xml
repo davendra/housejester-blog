@@ -2,121 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Housejester Blog</title>
-    <link>https://housejester.com/blog/</link>
+    <link>https://davendra.github.io/housejester-blog/public/blog/</link>
     <description>Latest articles from Housejester — UK furniture, interior design, and home improvement guides</description>
     <language>en-gb</language>
-    <atom:link href="https://housejester.com/blog/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://davendra.github.io/housejester-blog/public/blog/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>The Broken Floor Plan Transition: Why Homes in 2026 Are Quietly Breaking Up With Open Concept Layouts</title>
-      <link>https://housejester.com/blog/broken-floor-plan-transition-open-concept-2026.html</link>
-      <description>48.8% of homeowners prefer traditional layouts. Glass partitions, furniture zoning, and flooring transitions are replacing the open-concept mega-room.</description>
-      <pubDate>Mon, 16 Mar 2026 02:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://housejester.com/blog/broken-floor-plan-transition-open-concept-2026.html</guid>
+      <title>The Broken Floor Plan Transition: Why Homes in 2026 Are Breaking Up With Open Concept</title>
+      <link>https://davendra.github.io/housejester-blog/public/blog/broken-floor-plan-transition-2026.html</link>
+      <description>48.8% of homeowners now prefer traditional layouts over open concept. Discover the broken floor plan trend — zoned spaces using archways, glass partitions, and smart dividers.</description>
+      <pubDate>Mon, 16 Mar 2026 01:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://davendra.github.io/housejester-blog/public/blog/broken-floor-plan-transition-2026.html</guid>
     </item>
 
     <item>
       <title>10 Best Modern Fitted Kitchen Designs for Small Homes in 2026 (Smart Layouts That Make Tiny Kitchens Feel Huge)</title>
-      <link>https://housejester.com/blog/modern-fitted-kitchen-designs-small-homes-2026-compact-layouts.html</link>
-      <description>79% of designers recommend eliminating dining rooms. 10 fitted kitchen designs with smart storage, layered lighting, and nature-inspired colours for compact UK homes.</description>
-      <pubDate>Mon, 16 Mar 2026 01:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://housejester.com/blog/modern-fitted-kitchen-designs-small-homes-2026-compact-layouts.html</guid>
-    </item>
-
-    <item>
-      <title>Budget-Friendly Kitchen Cabinet Upgrades: 10 Ideas for UK Homeowners in 2026</title>
-      <link>https://housejester.com/blog/budget-friendly-kitchen-cabinet-ideas-uk-2026.html</link>
-      <description>Kitchen renovations offer 60-80% ROI. 10 affordable cabinet upgrades from repainting to glass panels — with UK costs, DIY tips, and 2026 trends.</description>
-      <pubDate>Mon, 16 Mar 2026 01:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://housejester.com/blog/budget-friendly-kitchen-cabinet-ideas-uk-2026.html</guid>
+      <link>https://davendra.github.io/housejester-blog/public/blog/best-modern-fitted-kitchen-designs-small-homes-2026-smart-layouts.html</link>
+      <description>79% of designers recommend eliminating the dining room to maximise kitchen space. 10 smart fitted kitchen layouts for compact UK homes.</description>
+      <pubDate>Mon, 16 Mar 2026 01:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://davendra.github.io/housejester-blog/public/blog/best-modern-fitted-kitchen-designs-small-homes-2026-smart-layouts.html</guid>
     </item>
 
     <item>
       <title>10 Budget-Friendly Kitchen Cabinet Upgrades UK Homeowners Are Choosing in 2026</title>
-      <link>https://housejester.com/blog/budget-kitchen-cabinet-upgrades-uk-homeowners-2026.html</link>
-      <description>The median UK minor kitchen renovation costs £4,900. From handle swaps to glass doors — 10 cabinet upgrades with pricing for every option.</description>
-      <pubDate>Mon, 16 Mar 2026 01:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://housejester.com/blog/budget-kitchen-cabinet-upgrades-uk-homeowners-2026.html</guid>
+      <link>https://davendra.github.io/housejester-blog/public/blog/budget-friendly-kitchen-cabinet-upgrades-uk-2026.html</link>
+      <description>The median UK minor kitchen renovation costs £4,900. Discover 10 budget-friendly cabinet upgrades that refresh your kitchen without a full overhaul.</description>
+      <pubDate>Mon, 16 Mar 2026 01:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://davendra.github.io/housejester-blog/public/blog/budget-friendly-kitchen-cabinet-upgrades-uk-2026.html</guid>
     </item>
 
     <item>
       <title>2026 Directory of Top-Rated Interior Design &amp; Home Specialists in London</title>
-      <link>https://housejester.com/blog/london-interior-design-home-specialists-directory-2026.html</link>
+      <link>https://davendra.github.io/housejester-blog/public/blog/london-interior-design-home-specialists-directory-2026.html</link>
       <description>Connecting London homeowners with verified local experts. 472,000+ UK companies, 7,000+ London listings, 21 categories. 2026 rates, trends and borough-level data.</description>
       <pubDate>Mon, 16 Mar 2026 01:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://housejester.com/blog/london-interior-design-home-specialists-directory-2026.html</guid>
-    </item>
-
-    <item>
-      <title>10 Budget-Friendly Kitchen Cabinet Upgrades UK Homeowners Are Choosing in 2026</title>
-      <link>https://housejester.com/blog/budget-friendly-kitchen-cabinet-upgrades-uk-2026.html</link>
-      <description>The median UK minor kitchen renovation costs £4,900. Discover 10 budget-friendly cabinet upgrades that refresh your kitchen without a full overhaul.</description>
-      <pubDate>Mon, 16 Mar 2026 01:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://housejester.com/blog/budget-friendly-kitchen-cabinet-upgrades-uk-2026.html</guid>
-    </item>
-
-    <item>
-      <title>The Broken Floor Plan Transition: Why Homes in 2026 Are Breaking Up With Open Concept</title>
-      <link>https://housejester.com/blog/broken-floor-plan-transition-2026.html</link>
-      <description>48.8% of homeowners now prefer traditional layouts over open concept. Discover the broken floor plan trend — zoned spaces using archways, glass partitions, and smart dividers.</description>
-      <pubDate>Mon, 16 Mar 2026 01:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://housejester.com/blog/broken-floor-plan-transition-2026.html</guid>
-    </item>
-
-    <item>
-      <title>10 Best Modern Fitted Kitchen Designs for Small Homes in 2026 (Smart Layouts That Make Tiny Kitchens Feel Huge)</title>
-      <link>https://housejester.com/blog/best-modern-fitted-kitchen-designs-small-homes-2026-smart-layouts.html</link>
-      <description>79% of designers recommend eliminating the dining room to maximise kitchen space. 10 smart fitted kitchen layouts for compact UK homes.</description>
-      <pubDate>Mon, 16 Mar 2026 01:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://housejester.com/blog/best-modern-fitted-kitchen-designs-small-homes-2026-smart-layouts.html</guid>
+      <guid isPermaLink="true">https://davendra.github.io/housejester-blog/public/blog/london-interior-design-home-specialists-directory-2026.html</guid>
     </item>
 
     <item>
       <title>Home Office Furniture &amp; Ergonomics: 10 Smart Upgrades That Make Remote Work Actually Comfortable in 2026</title>
-      <link>https://housejester.com/blog/home-office-furniture-ergonomics-10-smart-upgrades-2026.html</link>
+      <link>https://davendra.github.io/housejester-blog/public/blog/home-office-furniture-ergonomics-10-smart-upgrades-2026.html</link>
       <description>78% of remote workers say their home setup needs improvement. Discover 10 smart upgrades from ergonomic chairs to adjustable desks.</description>
       <pubDate>Mon, 16 Mar 2026 01:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://housejester.com/blog/home-office-furniture-ergonomics-10-smart-upgrades-2026.html</guid>
+      <guid isPermaLink="true">https://davendra.github.io/housejester-blog/public/blog/home-office-furniture-ergonomics-10-smart-upgrades-2026.html</guid>
     </item>
 
     <item>
       <title>How to Choose the Right Kitchen Renovation Contractor Near You in 2026 (Avoid Costly Mistakes)</title>
-      <link>https://housejester.com/blog/how-to-choose-the-right-kitchen-remodeling-contractor-near-you-in-2026.html</link>
+      <link>https://davendra.github.io/housejester-blog/public/blog/how-to-choose-the-right-kitchen-remodeling-contractor-near-you-in-2026.html</link>
       <description>75% of homeowners underestimate kitchen renovation timelines. Learn how to find verified contractors, compare quotes, and avoid costly mistakes.</description>
       <pubDate>Mon, 16 Mar 2026 01:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://housejester.com/blog/how-to-choose-the-right-kitchen-remodeling-contractor-near-you-in-2026.html</guid>
-    </item>
-
-    <item>
-      <title>10 Best Modern Fitted Kitchen Designs for Small Homes (2026 Guide That Actually Saves Space)</title>
-      <link>https://housejester.com/blog/10-best-modern-fitted-kitchen-designs-for-small-homes-2026-guide-that-actually-s.html</link>
-      <description>Actual space-saving fitted kitchen designs for compact UK homes in 2026.</description>
-      <pubDate>Mon, 16 Mar 2026 00:54:21 GMT</pubDate>
-      <guid isPermaLink="true">https://housejester.com/blog/10-best-modern-fitted-kitchen-designs-for-small-homes-2026-guide-that-actually-s.html</guid>
+      <guid isPermaLink="true">https://davendra.github.io/housejester-blog/public/blog/how-to-choose-the-right-kitchen-remodeling-contractor-near-you-in-2026.html</guid>
     </item>
 
     <item>
       <title>Birmingham &amp; West Midlands 2026 Home Renovation Resource Guide</title>
-      <link>https://housejester.com/blog/birmingham-west-midlands-2026-renovation-guide.html</link>
+      <link>https://davendra.github.io/housejester-blog/public/blog/birmingham-west-midlands-2026-renovation-guide.html</link>
       <description>The definitive local directory for finding verified bathroom fitters, flooring specialists, and trade professionals across Birmingham, Solihull, and the West Midlands.</description>
       <pubDate>Mon, 16 Mar 2026 00:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://housejester.com/blog/birmingham-west-midlands-2026-renovation-guide.html</guid>
+      <guid isPermaLink="true">https://davendra.github.io/housejester-blog/public/blog/birmingham-west-midlands-2026-renovation-guide.html</guid>
     </item>
 
     <item>
       <title>Manchester Home Improvement Hub: 2026 Verified Trade &amp; Furniture Directory</title>
-      <link>https://housejester.com/blog/manchester-home-improvement-hub-2026.html</link>
+      <link>https://davendra.github.io/housejester-blog/public/blog/manchester-home-improvement-hub-2026.html</link>
       <description>Connecting Greater Manchester homeowners with 472,000+ UK businesses. Navigate the 2026 renovation market with verified expertise in kitchens, bathrooms, flooring, and bespoke furniture.</description>
       <pubDate>Mon, 16 Mar 2026 00:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://housejester.com/blog/manchester-home-improvement-hub-2026.html</guid>
+      <guid isPermaLink="true">https://davendra.github.io/housejester-blog/public/blog/manchester-home-improvement-hub-2026.html</guid>
     </item>
 
     <item>
       <title>Industrial Luxe Furniture Trends 2026: The Best Warehouse-Style Living Ideas for Modern UK Homes</title>
-      <link>https://housejester.com/blog/industrial-luxe-furniture-trends-2026-the-best-warehousestyle-living-ideas-for-m.html</link>
+      <link>https://davendra.github.io/housejester-blog/public/blog/industrial-luxe-furniture-trends-2026-the-best-warehousestyle-living-ideas-for-m.html</link>
       <description>Industrial interiors are no longer just about exposed brick. Discover the latest warehouse-style living ideas for modern UK homes in 2026.</description>
       <pubDate>Sun, 15 Mar 2026 14:15:10 GMT</pubDate>
-      <guid isPermaLink="true">https://housejester.com/blog/industrial-luxe-furniture-trends-2026-the-best-warehousestyle-living-ideas-for-m.html</guid>
+      <guid isPermaLink="true">https://davendra.github.io/housejester-blog/public/blog/industrial-luxe-furniture-trends-2026-the-best-warehousestyle-living-ideas-for-m.html</guid>
     </item>
 
   </channel>
